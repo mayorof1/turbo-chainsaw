@@ -1,0 +1,19 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "commit": "git commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayorof1/turbo-chainsaw.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayorof1/turbo-chainsaw/issues"
+  },
+  "homepage": "https://github.com/mayorof1/turbo-chainsaw#readme"
+}
